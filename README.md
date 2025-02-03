@@ -1,0 +1,1 @@
+# Perbandingan-Klasifikasi-Mendeteksi-Akun-Palsu-di-IG-Dengan-Decision-Tree-NN-Random-Forest-dan-SVM
